@@ -1,0 +1,14 @@
+GEM
+  specs:
+    faker (1.5.0)
+      i18n (~> 0.5)
+    i18n (0.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faker
+
+BUNDLED WITH
+   1.10.6
