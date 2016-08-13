@@ -4,3 +4,5 @@ development:
       database: persons
       hosts:
         - localhost:27017
+      options:
+        pool_size: 100
