@@ -27,9 +27,11 @@ GEM
       connection_pool (~> 2.0)
       optionable (~> 0.2.0)
     multi_json (1.11.2)
+    nio4r (2.5.8)
     optionable (0.2.0)
     origin (2.1.1)
-    puma (2.16.0)
+    puma (4.3.11)
+      nio4r (~> 2.0)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
